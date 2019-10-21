@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Ironhack Data Analytics Labs 11 HEY
+# Ironhack Data Analytics Labs 11 Hello Guys
 
 ## Getting Started
 
